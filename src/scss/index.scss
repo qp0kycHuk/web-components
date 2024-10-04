@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '@packages/wc-menu/src/index.css';
+
+@import '@qpokychuk/inter/index.css';
+
+@import './packages/menu';
+@import './container';
+@import './style';
